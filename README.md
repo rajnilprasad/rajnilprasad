@@ -2,9 +2,6 @@
 
 Full Stack Developer (Remote)
 
-Based in Sacramento, California, 95833, United States
-Contact: 916.694.3310 | rajnilprasad.rp@gmail.com | LinkedIn
-
 Welcome to my GitHub profile! I'm a passionate Frontend Developer with a knack for building scalable web applications. Let's connect and collaborate on innovative projects! 🚀
 
 About Me 📖
@@ -68,19 +65,4 @@ Location: Sacramento, California, United States 🌉
 Thanks for stopping by my profile. If you like my work, please star or fork my repositories! ⭐ Feel free to contribute or connect—let's build something amazing together. 🚀
 
 
-
-<!--
-**rajnilprasad/rajnilprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> I'm from the USA, currently in the Pacific Standard Time Zone 🌎. I'm a huge fan of Next.js, Javascript, Node.js, TypeScript, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams, I can be found playing soccer ⚽ or pickleball 🏓, and spending time with my beautiful family ❤️.
 
