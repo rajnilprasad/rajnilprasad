@@ -1,7 +1,7 @@
-## Hi there 👋 
+## Hi there 👋 My name is Rajnil Developer
 
 Rajnil Prasad 👨‍💻
-Frontend Developer (Remote)
+Full Stack Developer (Remote)
 
 Based in Sacramento, California, 95833, United States
 Contact: 916.694.3310 | rajnilprasad.rp@gmail.com | LinkedIn
