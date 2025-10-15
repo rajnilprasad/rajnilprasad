@@ -1,6 +1,5 @@
-## Hi there 👋 My name is Rajnil Developer
+## Hi there 👋 My name is Rajnil Prasad 👨‍💻
 
-Rajnil Prasad 👨‍💻
 Full Stack Developer (Remote)
 
 Based in Sacramento, California, 95833, United States
