@@ -44,7 +44,9 @@ ed my skills in full-stack development and team collaboration! 🤝
 Education 🎓
 My educational background has laid a strong foundation for my career in tech:
 
+University of People - BS in Computer Science 
 Sierra College (2021 - 2025) | Associate Degree in Computer Science
+University of Caifornia (Davis) 2020 - Full Stack Coding Boot Camp
 
 Focused on web development, databases, and software engineering principles.
 University of California (2020) | Certificate in Full Stack Web Developer
